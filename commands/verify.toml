@@ -1,0 +1,2 @@
+description = "Verify Intervals.icu connection by fetching athlete details"
+prompt = "Use the `getAthleteDetails` tool to fetch the current athlete's profile and display the id, name and timezone to verify the connection is working."

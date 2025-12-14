@@ -1,0 +1,14 @@
+{
+  "name": "intervals-icu-gemini",
+  "version": "1.0.0",
+  "mcpServers": {
+    "intervals-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@moxus/intervals-mcp"
+      ]
+    }
+  },
+  "contextFileName": "instructions.md"
+}
